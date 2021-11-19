@@ -2,5 +2,6 @@ List of users
 Simon
 Percy
 Elvis
-Junior
-Paul
+joe 
+Peter
+sam
